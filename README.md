@@ -1,4 +1,4 @@
-# 🛒 Retail Sales GenAI Assistant
+# Retail Sales GenAI Assistant
 
 An AI-powered Retail Sales Analytics Assistant that enables users to analyze retail sales data using natural language.
 
